@@ -7,3 +7,14 @@ in your index.html and script.js files. */
 .chart {
   height: 500px;
 }
+
+.amount { 
+    text-align: right;
+}
+
+th { font-weight:normal; }
+
+.date
+{ 
+    text-align: right;
+}
